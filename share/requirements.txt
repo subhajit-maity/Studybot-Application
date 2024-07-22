@@ -1,0 +1,14 @@
+langchain
+openai
+langchain-openai
+pinecone-client
+langchain-pinecone
+pyautogen
+fastapi
+groq
+pandas
+together
+langchain-cohere
+langchain-groq
+fastapi
+langchain-google-genai
