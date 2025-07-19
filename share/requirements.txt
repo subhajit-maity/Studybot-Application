@@ -3,7 +3,7 @@ openai
 langchain-openai
 pinecone-client
 langchain-pinecone
-pyautogen
+ag2
 fastapi
 groq
 pandas
